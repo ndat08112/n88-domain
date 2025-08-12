@@ -1,7 +1,7 @@
 {
   "domain": "https://net88.com",
-  "updated": 1692707200,
-  "checked_at": "2025-08-12T10:00:00Z",
+  "updated": 1754979670,
+  "checked_at": "2025-08-12T06:21:10Z",
   "status": "active",
   "fallback_domains": [
     "https://net88.com",
@@ -9,5 +9,5 @@
     "https://net88.vip",
     "https://net88.info"
   ],
-  "notes": "Initial setup"
+  "notes": "Auto-updated by GitHub Actions"
 }
